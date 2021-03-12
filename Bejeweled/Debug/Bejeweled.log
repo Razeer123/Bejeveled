@@ -1,0 +1,3 @@
+﻿  Bejeweled.cpp
+C:\Users\Razee\source\repos\Bejeweled\Bejeweled\Bejeweled.cpp(328,7): warning C4101: 'rc': unreferenced local variable
+  Bejeweled.vcxproj -> C:\Users\Razee\source\repos\Bejeweled\Debug\Bejeweled.exe
